@@ -13,7 +13,7 @@ This project focuses on the Sales and Finance Analysis for AtiQ Hardware using E
 ## Sales Report:
 **Project objective**:
 
-1. Create a customer performance report
+1. Create a [customer performance report](Customer Performance Report.pdf)
 
 2. Conduct a comprehensive comparison between market performance vs sales targets
 
