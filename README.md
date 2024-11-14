@@ -13,7 +13,7 @@ This project focuses on the Sales and Finance Analysis for AtiQ Hardware using E
 ## Sales Report:
 **Project objective**:
 
-1. Create a [customer performance report](Customer.pdf)  
+1. Create a [customer performance report](https://github.com/Sandeepm959/Sales-Report-Finance-Report-for-AtliQ-Hardware/blob/main/Customer%20Performance%20Report.pdf)  
 
 2. Conduct a comprehensive comparison between [market performance vs sales targets](Market_Performance_vs_Target_Report.pdf)
 
