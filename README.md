@@ -15,7 +15,7 @@ This project focuses on the Sales and Finance Analysis for AtiQ Hardware using E
 
 1. Create a [customer performance report](https://github.com/Sandeepm959/Sales-Report-Finance-Report-for-AtliQ-Hardware/blob/main/Customer%20Performance%20Report.pdf)  
 
-2. Conduct a comprehensive comparison between [market performance vs sales targets](Market_Performance_vs_Target_Report.pdf)
+2. Conduct a comprehensive comparison between [market performance vs sales targets](https://github.com/Sandeepm959/Sales-Report-Finance-Report-for-AtliQ-Hardware/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 + **Perpose of sales analytics** : Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -28,9 +28,9 @@ This project focuses on the Sales and Finance Analysis for AtiQ Hardware using E
 ## Finance Report:
 **Project objective**:
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
+1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Sandeepm959/Sales-Report-Finance-Report-for-AtliQ-Hardware/blob/main/P%26L%20Statement%20By%20Fiscal%20Year.pdf) & [Months](https://github.com/Sandeepm959/Sales-Report-Finance-Report-for-AtliQ-Hardware/blob/main/P%26L%20Statement%20by%20Month.pdf)
 
-2.  Create Profit and Loss (P&L) reports by Markets
+2.  Create Profit and Loss (P&L) reports by [Markets](https://github.com/Sandeepm959/Sales-Report-Finance-Report-for-AtliQ-Hardware/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 + **The Purpose of Sales Analytics** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
